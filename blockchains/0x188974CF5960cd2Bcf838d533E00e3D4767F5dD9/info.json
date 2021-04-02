@@ -1,0 +1,28 @@
+
+{
+    "name": "Libycoin",
+    "website": "libycoin.online",
+    "source_code": "https://github.com/jairoq/libycoin--..lbn#libycoin-",
+    "white_paper": "https://drive.google.com/file/d/1gqD1zxzu0JiKNJ0yv55zhcU5iy0W6kVH/view",
+    "description": "It is a tokens.Its main objective is security through smart contracts and having the ability to make p2p payments.",
+    "socials": [
+        {
+            "name": "Twitter",
+            "url": "https://twitter.com/libycoin",
+            "handle": "libycoin"
+        },
+        {
+            "name": "Reddit",
+            "url": "https://www.reddit.com/user/Libycoin",
+            "handle": "libycoin"
+        }
+    ],
+    "symbol": "LBN",
+    "type": "COIN",
+    "decimals": 8,
+    "status": "active"
+}
+
+
+
+
